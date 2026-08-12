@@ -1,0 +1,1 @@
+I put together any screen maps and other resources I've made or found from worlds I've visited. I work out of a discord server where we have a world sharing section, and this allows me to send updates to worlds I map, and to allow others to suggest fixes or report issues.
