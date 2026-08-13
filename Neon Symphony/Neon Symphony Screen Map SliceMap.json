@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "name": "Neon Symphony Screen Map",
+  "composition": {
+    "width": 1920,
+    "height": 1080
+  },
+  "slices": [
+    {
+      "id": "715be805-9b8c-4257-849a-b858ce454acb",
+      "name": "DMX",
+      "cx": 960,
+      "cy": 104,
+      "width": 1920,
+      "height": 208,
+      "rotationDeg": 0,
+      "color": "#3B82F6"
+    },
+    {
+      "id": "300231b0-5060-4479-bff3-aa16ef63425b",
+      "name": "L Side Screen",
+      "cx": 122,
+      "cy": 644,
+      "width": 246,
+      "height": 872,
+      "rotationDeg": 0,
+      "color": "#22C55E"
+    },
+    {
+      "id": "b830a4ef-f65c-49fc-a975-465972ee211e",
+      "name": "R Side Screen",
+      "cx": 368,
+      "cy": 644,
+      "width": 246,
+      "height": 872,
+      "rotationDeg": 0,
+      "color": "#22C55E"
+    },
+    {
+      "id": "6b6e51e6-b428-435e-86cf-630f1bc6169f",
+      "name": "Center Main Screen",
+      "cx": 926,
+      "cy": 404,
+      "width": 870,
+      "height": 392,
+      "rotationDeg": 0,
+      "color": "#EF4444"
+    },
+    {
+      "id": "daac8a64-31fc-45ae-9f7e-5a2e5de4c384",
+      "name": "L2 Roof Screen",
+      "cx": 1417,
+      "cy": 543,
+      "width": 112,
+      "height": 670,
+      "rotationDeg": 0,
+      "color": "#ffffbb"
+    },
+    {
+      "id": "22f07bab-560b-42d8-9cf3-49b85bd6aa73",
+      "name": "L1 Roof Screen",
+      "cx": 1529,
+      "cy": 543,
+      "width": 112,
+      "height": 670,
+      "rotationDeg": 0,
+      "color": "#ffff97"
+    },
+    {
+      "id": "08c10f52-0aa5-4c53-8454-3d40aa0d0ffe",
+      "name": "C Roof Screen",
+      "cx": 1641,
+      "cy": 543,
+      "width": 112,
+      "height": 670,
+      "rotationDeg": 0,
+      "color": "#ffff6f"
+    },
+    {
+      "id": "40e33c15-8897-46bb-bde3-b4c3feac99ba",
+      "name": "R1 Roof Screen",
+      "cx": 1753,
+      "cy": 543,
+      "width": 112,
+      "height": 670,
+      "rotationDeg": 0,
+      "color": "#ffff97"
+    },
+    {
+      "id": "b4f35b2c-f540-4102-acf0-49790283dc4b",
+      "name": "R2 Roof Screen",
+      "cx": 1865,
+      "cy": 543,
+      "width": 112,
+      "height": 670,
+      "rotationDeg": 0,
+      "color": "#ffffbb"
+    },
+    {
+      "id": "748c5997-c52f-4c18-86cb-2c4510f672ad",
+      "name": "Top Stage Screen",
+      "cx": 1640,
+      "cy": 958,
+      "width": 560,
+      "height": 160,
+      "rotationDeg": 0,
+      "color": "#22C55E"
+    },
+    {
+      "id": "1e3f3fa1-b26a-48e8-80d5-fd763b3efcbb",
+      "name": "L Side",
+      "cx": 555,
+      "cy": 1015.9999999999999,
+      "width": 128,
+      "height": 128,
+      "rotationDeg": 0,
+      "color": "#F59E0B"
+    },
+    {
+      "id": "91d015fc-74dc-4cbf-ae41-5984c19fd00f",
+      "name": "L Bottom",
+      "cx": 683,
+      "cy": 1015.9999999999999,
+      "width": 128,
+      "height": 128,
+      "rotationDeg": 0,
+      "color": "#f9c166"
+    },
+    {
+      "id": "5ec751a1-40ac-4cf5-a66f-e4028761f2f9",
+      "name": "L Top",
+      "cx": 811,
+      "cy": 1015.9999999999999,
+      "width": 128,
+      "height": 128,
+      "rotationDeg": 0,
+      "color": "#fcd594"
+    },
+    {
+      "id": "5fc8be07-50e4-4e7c-935f-dcb4f24ab05d",
+      "name": "L Center",
+      "cx": 939,
+      "cy": 1016.0000000000001,
+      "width": 128,
+      "height": 128,
+      "rotationDeg": 0,
+      "color": "#feebcb"
+    },
+    {
+      "id": "50dbc269-0c1e-4b90-8dfd-6aaeb8561875",
+      "name": "R Side",
+      "cx": 555,
+      "cy": 888.0000000000001,
+      "width": 128,
+      "height": 128,
+      "rotationDeg": 0,
+      "color": "#00ffff"
+    },
+    {
+      "id": "79b702b9-04a6-45a6-bd6f-5b38ffb05427",
+      "name": "R Bottom",
+      "cx": 683,
+      "cy": 887.9999999999999,
+      "width": 128,
+      "height": 128,
+      "rotationDeg": 0,
+      "color": "#60ffff"
+    },
+    {
+      "id": "baf67334-c4fd-4ad2-b422-43115dd27aeb",
+      "name": "R Top",
+      "cx": 811,
+      "cy": 887.9999999999999,
+      "width": 128,
+      "height": 128,
+      "rotationDeg": 0,
+      "color": "#91ffff"
+    },
+    {
+      "id": "b7ed8c2e-ea93-42f0-afe9-3f0733abbbec",
+      "name": "R Center",
+      "cx": 939,
+      "cy": 887.9999999999999,
+      "width": 128,
+      "height": 128,
+      "rotationDeg": 0,
+      "color": "#caffff"
+    },
+    {
+      "id": "112d4fb1-d7f5-4d8a-9dc1-a55f21502088",
+      "name": "L Stage Floor Screen",
+      "cx": 707,
+      "cy": 767.9999999999999,
+      "width": 432,
+      "height": 112,
+      "rotationDeg": 0,
+      "color": "#ff71ff"
+    },
+    {
+      "id": "b2a0f5b8-6714-4c83-a5f3-bf6adb790423",
+      "name": "R Stage Floor Screen",
+      "cx": 1139,
+      "cy": 767.9999999999999,
+      "width": 432,
+      "height": 112,
+      "rotationDeg": 0,
+      "color": "#ff71ff"
+    },
+    {
+      "id": "efd21941-8918-43a7-a81e-9e65bcf6d851",
+      "name": "C Stage Floor Screen",
+      "cx": 925,
+      "cy": 656.0000000000001,
+      "width": 868,
+      "height": 112,
+      "rotationDeg": 0,
+      "color": "#A855F7"
+    }
+  ],
+  "export": {
+    "strokeWidth": 1,
+    "frameBorderPx": 12,
+    "design": "simple",
+    "showDimensions": true,
+    "showPixelCount": false,
+    "animation": {
+      "enabled": false,
+      "style": "phase-scroll",
+      "periodSec": 8
+    },
+    "video": {
+      "fps": 60
+    },
+    "guides": {
+      "enabled": true,
+      "showCross": true,
+      "showCircle": true,
+      "showLabelPlate": true
+    }
+  }
+}
