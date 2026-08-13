@@ -8,6 +8,6 @@ I also provide Resolume Arena Advanced Output XMLs and frames for each screen (o
 
 <details>
 <summary> Currently Supported Worlds (With Links!): </summary>
-- [Temple of Echoes](https://vrchat.com/home/world/wrld_12278343-a034-443d-a016-bda70e94dd32/info) by Lirodon
-- [Neon Symphony](https://vrchat.com/home/world/wrld_f85fe617-d0da-48f0-bdc0-86615b9d8490) by Happyrobot33
+- Temple of Echoes by Lirodon: https://vrchat.com/home/world/wrld_12278343-a034-443d-a016-bda70e94dd32
+- Neon Symphony by Happyrobot33: https://vrchat.com/home/world/wrld_f85fe617-d0da-48f0-bdc0-86615b9d8490
 </details>
