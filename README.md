@@ -6,6 +6,6 @@ Every folder here should be an individual world that I've mapped. If the world h
 
 I also provide Resolume Arena Advanced Output XMLs and frames for each screen (output as a 12 pixel border) generated using SliceMap and put in a ZIP archive.
 
-# <summary> Currently Supported Worlds (With Links!): </summary>
+<summary> Currently Supported Worlds (With Links!): </summary>
 - [Temple of Echoes](https://vrchat.com/home/world/wrld_12278343-a034-443d-a016-bda70e94dd32/info) by Lirodon
 - [Neon Symphony](https://vrchat.com/home/world/wrld_f85fe617-d0da-48f0-bdc0-86615b9d8490) by Happyrobot33
