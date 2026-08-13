@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "name": "Temple of Echoes Master",
+  "composition": {
+    "width": 1920,
+    "height": 1080
+  },
+  "slices": [
+    {
+      "id": "46e073a9-c339-4534-b338-06f69ae8f0f8",
+      "name": "Square RB",
+      "cx": 1249,
+      "cy": 668,
+      "width": 172,
+      "height": 172,
+      "rotationDeg": 0,
+      "color": "#ff0080"
+    },
+    {
+      "id": "32fde36c-0455-45ec-83b4-8f485cdf3d26",
+      "name": "Square RC",
+      "cx": 1249,
+      "cy": 490,
+      "width": 172,
+      "height": 172,
+      "rotationDeg": 0,
+      "color": "#ff0080"
+    },
+    {
+      "id": "b7e228de-a37a-4421-8f1e-270cc829b9ce",
+      "name": "Square RT",
+      "cx": 1249,
+      "cy": 312,
+      "width": 172,
+      "height": 172,
+      "rotationDeg": 0,
+      "color": "#ff0080"
+    },
+    {
+      "id": "b7b54027-6886-4fd2-b299-3826b72c73ce",
+      "name": "Square LB",
+      "cx": 125,
+      "cy": 668,
+      "width": 172,
+      "height": 172,
+      "rotationDeg": 0,
+      "color": "#0080ff"
+    },
+    {
+      "id": "a3415a15-824e-43e5-a4a8-c491e4adf1d5",
+      "name": "Square LC",
+      "cx": 125,
+      "cy": 490,
+      "width": 172,
+      "height": 172,
+      "rotationDeg": 0,
+      "color": "#0080ff"
+    },
+    {
+      "id": "9be54db1-64d9-4845-912c-5c34f9671676",
+      "name": "Square LT",
+      "cx": 125,
+      "cy": 312,
+      "width": 172,
+      "height": 172,
+      "rotationDeg": 0,
+      "color": "#0080ff"
+    },
+    {
+      "id": "a4ae8e6f-5fbc-4afd-a2d2-1b1c6968b1c3",
+      "name": "Strip 6",
+      "cx": 1076,
+      "cy": 487,
+      "width": 152,
+      "height": 710,
+      "rotationDeg": 0,
+      "color": "#ff00ff"
+    },
+    {
+      "id": "93a45caa-749f-42df-adf6-1374370bdf8d",
+      "name": "Strip 5",
+      "cx": 920,
+      "cy": 487,
+      "width": 152,
+      "height": 710,
+      "rotationDeg": 0,
+      "color": "#ff00ff"
+    },
+    {
+      "id": "76bfc779-eb36-4d39-b7ac-a16aced4fa1b",
+      "name": "Strip 4",
+      "cx": 764,
+      "cy": 487,
+      "width": 152,
+      "height": 710,
+      "rotationDeg": 0,
+      "color": "#ff00ff"
+    },
+    {
+      "id": "132fe7c7-017b-49cd-a46b-387daa369101",
+      "name": "Strip 3",
+      "cx": 608,
+      "cy": 487,
+      "width": 152,
+      "height": 710,
+      "rotationDeg": 0,
+      "color": "#ff00ff"
+    },
+    {
+      "id": "a11db795-93c6-4eff-a89f-856493c11c3a",
+      "name": "Strip 2",
+      "cx": 452,
+      "cy": 487,
+      "width": 152,
+      "height": 710,
+      "rotationDeg": 0,
+      "color": "#ff00ff"
+    },
+    {
+      "id": "39cdc8c1-6c63-45e9-a2ca-554d68e5296f",
+      "name": "Strip 1",
+      "cx": 296,
+      "cy": 487,
+      "width": 152,
+      "height": 710,
+      "rotationDeg": 0,
+      "color": "#ff00ff"
+    },
+    {
+      "id": "5f0ff586-634f-45ef-8d69-449af5029c5b",
+      "name": "Hologram",
+      "cx": 1629.01,
+      "cy": 488.01,
+      "width": 736,
+      "height": 414,
+      "rotationDeg": -90,
+      "color": "#ff0000"
+    },
+    {
+      "id": "22f3802e-5cfa-4c1f-8406-f381938e7541",
+      "name": "DMX",
+      "cx": 960,
+      "cy": 976,
+      "width": 1920,
+      "height": 208,
+      "rotationDeg": 0,
+      "color": "#ffffff"
+    },
+    {
+      "id": "8e5f1c5e-0641-4256-8a0c-2ad7eb67c5a3",
+      "name": "DJ Booth",
+      "cx": 1533,
+      "cy": 58,
+      "width": 726,
+      "height": 106,
+      "rotationDeg": 0,
+      "color": "#008000"
+    },
+    {
+      "id": "73ae1053-1b08-4082-b6eb-486f715a8718",
+      "name": "Arch",
+      "cx": 686,
+      "cy": 58,
+      "width": 932,
+      "height": 106,
+      "rotationDeg": 0,
+      "color": "#ff8000"
+    }
+  ],
+  "export": {
+    "strokeWidth": 2,
+    "frameBorderPx": 12,
+    "design": "simple",
+    "showDimensions": true,
+    "showPixelCount": false,
+    "animation": {
+      "enabled": false,
+      "style": "phase-scroll",
+      "periodSec": 4
+    },
+    "video": {
+      "fps": 30
+    },
+    "guides": {
+      "enabled": true,
+      "showCross": true,
+      "showCircle": true,
+      "showLabelPlate": true
+    }
+  }
+}
